@@ -1288,7 +1288,7 @@ function initContactForm() {
       `Solución requerida: ${serviceText}\n\n` +
       `Descripción de la necesidad:\n${message}\n`;
 
-    const mailtoUrl = `mailto:contacto@pentacoredev.com?subject=${emailSubject}&body=${emailBodyText}`;
+    const mailtoUrl = `mailto:pentacoredev@gmail.com?subject=${emailSubject}&body=${emailBodyText}`;
     const whatsappUrl = `https://wa.me/?text=${encodeURIComponent(plainTextCopy)}`;
 
     // Trigger user's mail client directly
@@ -1298,7 +1298,7 @@ function initContactForm() {
     feedback.className = 'form-feedback success';
     feedback.innerHTML = `
       <div>
-        <strong>✓ Requerimiento preparado:</strong> Se ha abierto tu cliente de correo (Gmail, Outlook, Apple Mail) listo para remitir a <strong>contacto@pentacoredev.com</strong>.
+        <strong>✓ Requerimiento preparado:</strong> Se ha abierto tu cliente de correo (Gmail, Outlook, Apple Mail) listo para remitir a <strong>pentacoredev@gmail.com</strong>.
       </div>
       <div style="font-size: 0.84rem; color: var(--text-muted);">
         Si utilizas correo web o no se abrió tu cliente automáticamente, puedes usar estas alternativas directas:
