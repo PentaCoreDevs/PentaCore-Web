@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="100%" height="100%" fill="none">
+  <defs>
+    <linearGradient id="fullBracketGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2B66FF" />
+      <stop offset="100%" stop-color="#22B69A" />
+    </linearGradient>
+  </defs>
+
+  <!-- Symbol Container -->
+  <g transform="translate(6, 8)">
+    <rect width="64" height="64" rx="18" fill="#223752" />
+    <!-- < -->
+    <path d="M 23 21 L 11 32 L 23 43" stroke="url(#fullBracketGrad)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" />
+    <!-- ; -->
+    <circle cx="32" cy="26" r="2.8" fill="#55D6BE" />
+    <path d="M 32 34 C 32 36 31.5 38 30.5 39.5 C 29.5 41 27.5 42 25.5 42.5" stroke="#55D6BE" stroke-width="2.5" stroke-linecap="round" />
+    <!-- > -->
+    <path d="M 41 21 L 53 32 L 41 43" stroke="url(#fullBracketGrad)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <!-- Typography: PentaCore -->
+  <text x="84" y="47" font-family="'Syne', 'Plus Jakarta Sans', sans-serif" font-size="32" font-weight="800" fill="#223752" letter-spacing="-0.03em">
+    Penta<tspan fill="#2B66FF">Core</tspan>
+  </text>
+  
+  <!-- Subscript -->
+  <text x="86" y="64" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#687687" letter-spacing="0.04em">
+    Tecnología que se adapta a tu negocio
+  </text>
+</svg>

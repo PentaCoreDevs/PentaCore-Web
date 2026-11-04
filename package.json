@@ -1,0 +1,18 @@
+{
+  "name": "pentacore-web",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Sitio web oficial de presentación de PentaCore <;>",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  },
+  "dependencies": {
+    "three": "^0.186.1"
+  }
+}
