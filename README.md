@@ -43,10 +43,10 @@ Sitio web de presentación corporativa de alto impacto para **PentaCore**, desar
    * Innovación, Inteligencia, Cercanía, Excelencia y Evolución.
 
 6. **Equipo (`#equipo`)**:
-   * Presentación de roles técnicos (Arquitectura de Sistemas, Full-Stack Lead, Product & UI Designer) y tarjeta de captación de talento.
+   * Presentación del equipo de ingeniería de PentaCore (**Ana Lucía Grillo**, **Camilo Lemos**, **Fabián Sánchez** y **Leonardo Cerquera**).
 
 7. **Contacto (`#contacto`)**:
-   * Canal directo `contacto@pentacore.dev`, tiempo de respuesta técnica en menos de 24 horas y formulario validado en tiempo real.
+   * Canal directo `contacto@pentacoredev.com`, tiempo de respuesta técnica en menos de 24 horas y formulario validado en tiempo real.
 
 8. **Footer**:
    * Mapa de navegación, enlaces de servicios y derechos reservados.
