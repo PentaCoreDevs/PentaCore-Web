@@ -6,7 +6,7 @@ Sitio web de presentación corporativa de alto impacto para **PentaCore**, desar
 
 ---
 
-## 🎨 Identidad & Diseño
+## Identidad y Diseño
 
 * **Logo**: `<;>` (símbolo de código limpio, moderno y conciso).
 * **Dual-Theme (Claro / Oscuro)**:
@@ -20,7 +20,7 @@ Sitio web de presentación corporativa de alto impacto para **PentaCore**, desar
 
 ---
 
-## 🚀 Secciones y Componentes
+## Secciones y Componentes
 
 1. **Header / Navegación**:
    * Logotipo depurado `<;> PentaCore` (sin etiquetas ni añadidos innecesarios).
@@ -28,16 +28,16 @@ Sitio web de presentación corporativa de alto impacto para **PentaCore**, desar
    * Conmutador de tema Claro / Oscuro.
    * Botón de acción principal *"Hablemos"* y menú móvil responsivo.
 
-2. **Hero Section con Explorador de Arquitectura**:
-   * Mensaje central de ingeniería: *"Creamos tecnología para resolver problemas reales. Diseñamos y construimos software a medida y plataformas SaaS escalables."*
-   * **Explorador Interactivo de Blueprint**: Permite al visitante examinar tres topologías de sistemas reales (*SaaS Multi-tenant*, *Software a Medida* e *Infraestructura Cloud*) con flujo de nodos y métricas técnicas en vivo (latencia, disponibilidad y arquitectura).
+2. **Hero Section e Ingeniería Adaptativa (`#arquitectura`)**:
+   * Mensaje central de ingeniería: *"Creamos tecnología para resolver problemas reales. Diseñamos y construimos software a medida, aplicaciones y ecosistemas digitales adaptados a tu operación."*
+   * **Explorador Interactivo de Arquitectura**: Permite examinar distintas topologías de sistemas y niveles de madurez (*Base Ágil*, *Ecosistema Conectado* y *Alta Escala*) con arquitectura visual y métricas técnicas en tiempo real.
 
-3. **ADN & Manifiesto (`#nosotros`)**:
+3. **ADN y Manifiesto (`#nosotros`)**:
    * Posicionamiento y filosofía central: *"No creemos que las empresas deban adaptarse al software. Hacemos que el software se adapte a las empresas."*
    * 4 etapas de valor: Diagnóstico, Inteligencia, Ingeniería y Evolución Continua.
 
-4. **Soluciones & Capacidades (`#soluciones`)**:
-   * Software a Medida, Productos SaaS Escalables, Arquitectura Cloud & DevOps, Automatización & Datos, Consultoría Técnica y Capacitación.
+4. **Soluciones y Capacidades (`#soluciones`)**:
+   * Software a Medida, Plataformas y Productos Digitales, Arquitectura Cloud y DevOps, Automatización y Datos, Consultoría Técnica y Capacitación.
 
 5. **Valores Fundamentales (`#valores`)**:
    * Innovación, Inteligencia, Cercanía, Excelencia y Evolución.
@@ -53,7 +53,7 @@ Sitio web de presentación corporativa de alto impacto para **PentaCore**, desar
 
 ---
 
-## 🛠️ Comandos de Desarrollo
+## Comandos de Desarrollo
 
 ```bash
 # Instalar dependencias
